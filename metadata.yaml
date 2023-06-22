@@ -1,5 +1,8 @@
 _repo: The-life-of-John-Thompson-a-fugitive-slave-b-Containing-his-history-of-25-years-in-bondage-an__70985
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70985-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, John G. (John Gilbert)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '8954'
     url: http://www.gutenberg.org/2009/agents/8954
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70985#The-life-of-John-Thompson-a-fugitive-slave-b-Containing-his-history-of-25-years-in-bondage-an_
 gutenberg_issued: '2023-06-15'
 identifiers:
   gutenberg: '70985'
